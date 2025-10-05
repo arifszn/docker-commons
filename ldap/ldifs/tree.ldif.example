@@ -22,7 +22,7 @@ uid: user01
 uidNumber: 1000
 gidNumber: 1000
 homeDirectory: /home/user01
-mail: user01@grameenphone.com
+mail: user01@example.com
 
 # User user02 creation
 dn: cn=user02,ou=users,dc=example,dc=org
@@ -36,7 +36,7 @@ uid: user02
 uidNumber: 1001
 gidNumber: 1001
 homeDirectory: /home/user02
-mail: user02@grameenphone.com
+mail: user02@example.com
 
 # Group creation and
 # User group membership
